@@ -8,6 +8,7 @@ main source code is going to be jitsi
   retina scanner
     Project Iris Recognition
   regular account and password
-  LM number password
+  LM number password (hardware token)
     a sync up with whoever yoou are trying to communicate with
     android app to help with this
+      DUO app
